@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/one-minute-news-app/static/css/main.e6c13ad2.css",
+    "main.js": "/one-minute-news-app/static/js/main.ad73fbe2.js",
+    "index.html": "/one-minute-news-app/index.html",
+    "main.e6c13ad2.css.map": "/one-minute-news-app/static/css/main.e6c13ad2.css.map",
+    "main.ad73fbe2.js.map": "/one-minute-news-app/static/js/main.ad73fbe2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ad73fbe2.js"
+  ]
+}
